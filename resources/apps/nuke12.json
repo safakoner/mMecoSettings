@@ -1,0 +1,15 @@
+{
+    "developer":"safak@safakoner.com",
+    "description":"Nuke 12",
+
+    "darwinExecutable":"",
+    "linuxExecutable":"",
+    "windowsExecutable":"",
+
+    "globalEnvClassName":"Nuke",
+    "application":"nuke",
+    "folderName":"nuke",
+    "version":"12",
+
+    "packages":[]
+}

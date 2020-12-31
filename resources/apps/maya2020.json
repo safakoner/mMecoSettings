@@ -1,0 +1,15 @@
+{
+    "developer":"safak@safakoner.com",
+    "description":"Autodesk Maya 2020",
+
+    "darwinExecutable":"/Applications/Autodesk/maya2020/Maya.app/Contents/bin/maya",
+    "linuxExecutable":"maya",
+    "windowsExecutable":"maya.exe",
+
+    "globalEnvClassName":"Maya",
+    "application":"maya",
+    "folderName":"maya",
+    "version":"2020",
+
+    "packages":[]
+}

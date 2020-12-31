@@ -1,0 +1,15 @@
+{
+    "developer":"safak@safakoner.com",
+    "description":"PyCharm",
+
+    "darwinExecutable":"open -a PyCharm.app",
+    "linuxExecutable":"pycharm",
+    "windowsExecutable":"pycharm.bat",
+
+    "globalEnvClassName":"PyCharm",
+    "application":"pycharm",
+    "folderName":"pycharm",
+    "version":"2020.3",
+
+    "packages":[]
+}

@@ -1,0 +1,15 @@
+{
+    "developer":"safak@safakoner.com",
+    "description":"Atom",
+
+    "darwinExecutable":"open -a Atom.app",
+    "linuxExecutable":"atom",
+    "windowsExecutable":"atom.exe",
+
+    "globalEnvClassName":"Atom",
+    "application":"atom",
+    "folderName":"atom",
+    "version":"1.53.0",
+
+    "packages":[]
+}

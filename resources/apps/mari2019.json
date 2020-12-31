@@ -1,0 +1,15 @@
+{
+    "developer":"safak@safakoner.com",
+    "description":"Mari 4.6",
+
+    "darwinExecutable":"",
+    "linuxExecutable":"",
+    "windowsExecutable":"",
+
+    "globalEnvClassName":"Mari",
+    "application":"mari",
+    "folderName":"mari",
+    "version":"46",
+
+    "packages":[]
+}
